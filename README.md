@@ -23,8 +23,8 @@ A simple Wordle-inspired console game written in Python. Guess the 5-letter word
 **Step 1: Clone the repository**
 
 ```
-git clone https://github.com/yourusername/python-console-wordle.git
-cd python-console-wordle
+git clone https://github.com/alas-m/WordleCMD.git
+cd WordleCMD
 ```
 
 **Step 2: Install dependencies**
